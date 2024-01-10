@@ -1,0 +1,36 @@
+main{
+    background-color:rgb(1, 59, 39);
+    color: white;
+    
+}
+
+.container-header header ul {
+    display: flex;
+    list-style-type: none; /* Remove os marcadores de lista */
+    padding: 0; /* Remove o padding */
+    justify-content: center;
+    ;
+    background-color: black;
+}
+
+.container-header header ul li {
+    margin-right: 10px; /* Adiciona uma margem à direita de cada item da lista */
+}
+
+.container-img-thresh {
+    display: flex;
+    justify-content: center;
+        height: 100vh; /* Ajuste conforme necessário */
+}
+
+.titulo2{
+    display: flex;
+    justify-content: center;
+}
+
+.titulo3{
+    display: flex;
+    justify-content: center;
+    font-weight: normal;    
+}
+
