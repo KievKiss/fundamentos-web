@@ -35,5 +35,10 @@
     border-radius: 50%;
 }
 
+.rp{
+    justify-content: center; /*Eixo Horizoontal*/
+    align-items: center;/*Eixo vertical*/
+}
+
 
 /* Estilo da pagina contato.html */
